@@ -1,13 +1,13 @@
-<!-- Profile README for Abisegan -->
+<!-- Profile README for Ajanan -->
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Pavithar!&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Ajanan!&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
 
 <!-- Intro -->
 # 👋 Welcome to My GitHub!
-🎓 Software Engineering Undergraduate @ Sabaragamuwa University of Sri Lanka [**Sabaragamuwa University of Sri Lanka**](https://www.sab.ac.lk/)  
+🎓 Information and Communication Technologies @ Wayamba Univesity of Sri Lanka [**Wayamba University of Sri Lanka**]([https://www.sab.ac.lk/](https://wyb.ac.lk/))  
 💻 Passionate about Web Development, Databases, and Problem Solving  
 
 ---
@@ -20,9 +20,9 @@
 ---
 
 ## 📊 GitHub Analytics  
-![Pavithar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavitharM&show_icons=tr_ue&theme=merko)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavitharM&layout=compact&theme=merko)
+![Ajanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajanan1111&show_icons=tr_ue&theme=merko)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavitharM&layout=compact&theme=merko)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PavitharM&theme=merko)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ajanan1111&theme=merko)
 
 ---
 
