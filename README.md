@@ -34,8 +34,7 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://github.com/PavitharM"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/abisegan-siriranganathan/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>
+  <a href="https://github.com/Ajanan1111"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/></a>
   <a href="www.linkedin.com/in/mangaleswaran-pavithar-857754362"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/></a>
 </p>
 
